@@ -1,0 +1,30 @@
+{
+  "name": "topcoat-theme-mobile-dark",
+  "version": "0.0.0",
+  "description": "Dark theme for mobile applications",
+  "main": "index.html",
+  "style": "src/theme-mobile-dark.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/topcoat/theme-mobile-dark.git"
+  },
+  "keywords": [
+    "theme",
+    "mobile",
+    "dark",
+    "topcoat"
+  ],
+  "author": "@dam Kristofer Joseph",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/topcoat/theme-mobile-dark/issues"
+  },
+  "dependencies": {
+    "topcoat-variables-shared": "git://github.com/topcoat/variables-dark.git",
+    "topcoat-variables-dark": "git://github.com/topcoat/variables-dark.git",
+    "topcoat-variables-mobile": "git://github.com/topcoat/variables-mobile.git"
+  }
+}
