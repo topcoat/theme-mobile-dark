@@ -23,8 +23,8 @@
     "url": "https://github.com/topcoat/theme-mobile-dark/issues"
   },
   "dependencies": {
-    "topcoat-variables-shared": "git://github.com/topcoat/variables-shared.git",
+    "topcoat-scale-mobile": "git://github.com/topcoat/scale-mobile.git",
     "topcoat-variables-dark": "git://github.com/topcoat/variables-dark.git",
-    "topcoat-variables-mobile": "git://github.com/topcoat/variables-mobile.git"
+    "topcoat-variables-mobile": "git://github.com/topcoat/variables-mobile.git#scale"
   }
 }
