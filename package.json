@@ -25,6 +25,8 @@
   "dependencies": {
     "topcoat-variables-shared": "~0.1.0",
     "topcoat-variables-mobile": "~0.1.0",
-    "topcoat-variables-dark": "~0.1.0"
+    "topcoat-variables-dark": "~0.1.0",
+    "topcoat-fonts": "~0.1.0",
+    "topcoat-grid": "~0.1.0"
   }
 }
