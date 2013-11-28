@@ -1,6 +1,6 @@
 {
   "name": "topcoat-theme-mobile-dark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dark theme for mobile applications",
   "main": "index.html",
   "style": "src/theme-mobile-dark.css",
