@@ -1,6 +1,6 @@
 {
   "name": "topcoat-theme-mobile-dark",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "description": "Dark theme for mobile applications",
   "main": "index.html",
   "style": "src/theme-mobile-dark.css",
@@ -23,9 +23,9 @@
     "url": "https://github.com/topcoat/theme-mobile-dark/issues"
   },
   "dependencies": {
-    "topcoat-variables-shared": "0.1.3",
+    "topcoat-variables-shared": "0.1.4",
     "topcoat-fonts": "0.2.4",
-    "topcoat-variables-dark": "0.1.5",
-    "topcoat-variables-mobile": "0.2.0"
+    "topcoat-variables-mobile": "0.2.4",
+    "topcoat-variables-dark": "~0.1.5"
   }
 }
